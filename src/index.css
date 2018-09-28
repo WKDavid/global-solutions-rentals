@@ -4,12 +4,12 @@ body {
   font-family: Georgia, Helvetica, Arial;
 }
 
-a, a:visited {
+a, a:visited, a:hover, a:active {
   text-decoration: none;
+  cursor: pointer;
 }
 
-.headerMainCont, .equipmentList, .footerMainCont, .footerInfoCont {
-  padding: 0.7vw;
+.headerMainCont, .equipmentList, .footerMainCont, .footerInfoCont, .navMainCont, .backMainCont, .servicesTopMain, .servicesBigEach, .contactUsPageMainCont {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -17,74 +17,161 @@ a, a:visited {
   width: 100%;
 }
 
+.servicesBigEach {
+  margin-top: 1vw;
+  height: 40vw;
+}
+
+.gMap {
+  left: 1%;
+}
+
+.contactUList {
+  height: 21vw;
+  overflow-y: scroll;
+  width: 29vw;
+}
+
+.servicesTopMain {
+  height: 20vw;
+}
+
+.backMainCont {
+  height: 45vw;
+  animation: bgChange 30s ease-out 0s alternate infinite none running;
+  background-image: url('./images/HeaderLogo/BG01.jpg');
+  background-size: 100%;
+}
+
+.navMainCont, .quickMainCont {
+  flex-direction: column;
+  width: 50%;
+}
+
+.quickImg {
+  margin-left: 3%;
+  width: 29%;
+}
+
 .GSMainCont {
   width: 59%;
 }
 
 .GSMainPic {
+  animation: spinAround 4000ms ease-out 0s alternate infinite none running;
   width: 100%;
 }
 
-.topIcons, .btIcons {
+.btIcons {
   height: 3.5vw;
   width: 3.5vw;
 }
 
-.phNr, .countNr, .btText {
+.arrTopDown {
+  margin-top: 1%;
+  margin-left: 67%;
+  width: 21%;
+  cursor: pointer;
+}
+
+.torArrFig {
+  margin: 0;
+}
+
+.navBtn {
+  margin-left: 57%;
+  cursor: pointer;
+  color: #0320b9;
+  animation: bgColorChange 2s ease-out 0s alternate infinite none running,
+             txColorChange 2s ease-out 0s alternate infinite none running;
+  width: 40%;
+  text-align: center;
+  border-radius: 5px;
+  font-size: calc(14px + (30 - 14) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.viewEquipTxt {
+  cursor: pointer;
+  margin-left: 53%;
+  animation: txShadow 2s ease-out 0s alternate infinite none running,
+             txColorChange 2s ease-out 0s alternate infinite none running;
+  font-weight: bold;
+  text-align: center;
+  font-size: calc(14px + (30 - 14) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.btText {
   position: relative;
 }
 
-.countNr {
-  color: #003F7F;
-  bottom: 1.9vw;
-}
-
-.phNr, .btText {
+.btText {
   bottom: 1.2vw;
 }
 
-.phoneCont, .shopCartCounter {
-  cursor: pointer;
-  line-height: 1.5;
-  color: #003F7F;
-  font-size: calc(14px + (32 - 14) * ((100vw - 300px) / (1600 - 300)));
-  vertical-align: middle;
-}
-
-.inputMainCont {
-  width: 100%;
-  height: 25.5vw;
-  background-image: url('./images/HeaderLogo/backMain.jpg');
-  background-size: 100%;
-}
-
-.inputUpperText {
-  right: -61vw;
-  animation-name: textSlide;
-  animation-duration: 7s;
-  animation-iteration-count: 1;
-  position: relative;
-  font-weight: 550;
-  font-style: oblique;
-  color: white;
-  font-size: calc(14px + (32 - 14) * ((100vw - 300px) / (1600 - 300)));
-}
-
-.inputRowCont {
-  width: 70%;
-  position: relative;
-  animation-name: topDrop;
-  animation-duration: 3s;
-  animation-iteration-count: 1;
-  top: 7vw;
-  left: 33vw;
-}
-
-.eqEachCont {
-  padding: 1vw;
+.quickMailForm, .eqEachCont, .bigMailForm, .bigMailFormEachCont, .servicesTopEach, .servicesBigEachTextCont {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.servicesBigEachTextCont {
+  width: 45%;
+}
+
+.servicesImgBig {
+  height: 100%;
+}
+
+.servicesTopEach {
+  width: 20%;
+  padding: 1%;
+}
+
+.servicesTopImg {
+  height: 30%;
+}
+
+.bigMailFormEachCont {
+  margin-top: 1vw;
+  width: 70%;
+  align-items: flex-start;
+}
+
+.bigInputTxt {
+  animation: borderGlow 1500ms ease-out 0s alternate infinite none running;
+  color: #0017b3;
+  font-size: calc(12px + (20 - 12) * ((100vw - 300px) / (1600 - 300)));
+  border-image: none;
+  border-style: solid;
+  border-radius: 5px;
+  width: 100%;
+}
+
+ .bigMailForm {
+   width: 100%;
+   flex-wrap: nowrap;
+ }
+
+.quickMailForm, .quickMailInputTxt {
+  background-color: rgba(0, 19, 194, 0.77);
+}
+
+.quickMailInputTxt, .quickMailInputLabel {
+  color: white;
+  font-size: calc(11px + (17 - 11) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.quickMailForm {
+  width: 17vw;
+}
+
+.quickMailInputTxt {
+  width: 99%;
+}
+
+.eqEachCont {
+  border-radius: 5px;
+  padding: 1vw;
   flex-wrap: nowrap;
   cursor: pointer;
   width: 25vw;
@@ -95,21 +182,124 @@ a, a:visited {
   box-shadow: 1vw 1vw 5vw #003F7F;
 }
 
+.subEachCont {
+  border: solid;
+  border-width: 1px;
+  animation: borderGlow 1500ms ease-out 0s alternate infinite none running;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 30vw;
+  height: 23vw;
+}
+
+.subListPhoto {
+  align-self: flex-start;
+  height: 7vw;
+}
+
+.sticky {
+  position: fixed;
+  top: 0.5vw;
+  left: 1vw;
+}
+
+.stickyImg {
+  width: 3.5vw;
+  cursor: pointer;
+}
+
+.subListName, .subListText, .bigInputLabel, .servicesTopHead, .servicesTopTxt, .servicesTopTxtParagraph, .liContactElemsEach {
+  background: -webkit-linear-gradient(#2b72f6, #00076a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bigInputLabel {
+  font-size: calc(12px + (22 - 12) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.subListName {
+  width: 60%;
+  text-align: center;
+  font-weight: bold;
+  font-size: calc(12px + (28 - 12) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.servicesTopHead, {
+  text-align: center;
+  font-weight: bold;
+  font-size: calc(12px + (22 - 12) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.servicesTopEach, .subListText, .servicesTopTxt, .servicesTopTxtParagraph {
+  margin: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+}
+
+.subListText, .servicesTopTxt, .servicesTopTxtParagraph {
+  text-align: center;
+  width: 100%;
+  font-size: calc(12px + (18 - 12) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.servicesTopTxtParagraph, .liContactElemsEach {
+  font-size: calc(12px + (20 - 12) * ((100vw - 300px) / (1600 - 300)));
+  line-height: 3;
+}
+
+.liContactElemsEach {
+  line-height: normal;
+  font-weight: bold;
+  margin-top: 0.5vw;
+}
+
+.subListText {
+  overflow-y: scroll;
+  height: 57%;
+}
+
 .eqListPhotos {
   width: 17vw;
   height: 19vw;
 }
 
-.eqListNames {
+.eqListNames, .eqSubListBtn, .quickFormSubmitBtn, .bigFormSubmitBtn, .dateVisibilityBtn {
   line-height: 3vw;
-  margin-top: 10%;
-  text-transform: uppercase;
   width: 100%;
   text-align: center;
   color: white;
   background-image: url('./images/FooterIcons/water.gif');
   border-radius: 4px;
   font-size: calc(14px + (24 - 14) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.dateVisibilityBtn {
+  line-height: 1.5;
+  width: 40%;
+}
+
+.bigFormSubmitBtn {
+  margin-top: 1vw;
+  width: 70%;
+}
+
+.eqSubListBtn, .quickFormSubmitBtn, .bigFormSubmitBtn, .dateVisibilityBtn {
+  cursor: pointer;
+}
+
+.quickFormSubmitBtn {
+  line-height: normal;
+  font-size: calc(12px + (22 - 14) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.eqListNames {
+  margin-top: 10%;
+  text-transform: uppercase;
 }
 
 .contactCont {
@@ -132,18 +322,59 @@ a, a:visited {
   font-size: calc(14px + (22 - 14) * ((100vw - 300px) / (1600 - 300)));
 }
 
-a, a:visited, a:hover, a:active {
-  text-decoration: none;
-  cursor: pointer;
-  color: inherit;
+::-webkit-scrollbar {
+    width: 0.5vw;
 }
 
-@keyframes textSlide {
-  0%   {right: 31vw;}
-  100% {right: -61vw;}
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
 }
 
-@keyframes topDrop {
-  0%   {top: -2vw;}
-  100% {top: 7vw;}
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #0017b3;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: #003F7F;
+}
+
+@keyframes bgChange {
+  25%   {background-image: url('./images/HeaderLogo/BG02.JPG');}
+  50%   {background-image: url('./images/HeaderLogo/BG03.JPG');}
+  75%   {background-image: url('./images/HeaderLogo/BG04.jpg');}
+  100% {background-image: url('./images/HeaderLogo/BG01.jpg');}
+}
+
+@keyframes bgColorChange {
+  from {background-color: #003F7F;}
+  to {background-color: rgba(#000174, 0);}
+}
+
+@keyframes txColorChange {
+  from {color: #ffffff;}
+  to {color: rgba(#000174, 0);}
+}
+
+@keyframes borderGlow {
+  from {border-color: #0624c3;}
+  to {border-color: white;}
+}
+
+@keyframes txShadow {
+  from {text-shadow: 1px 1px #003F7F;}
+  to {text-shadow: 1px 1px #003F7F,
+                    2px 2px #003F7F,
+                    3px 3px #003F7F,
+                    4px 4px #003F7F,
+                    5px 5px #003F7F,
+                    7px 7px #003F7F;}
+}
+
+@keyframes spinAround {
+    from {transform:rotateY(180deg);}
+    to {transform:rotateY(0deg);}
 }
