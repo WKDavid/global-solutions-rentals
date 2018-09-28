@@ -2,7 +2,7 @@
   "name": "global-solution-rentals",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wkdavid.github.io/gsdemo",
+  "homepage": "https://wkdavid.github.io/global-solutions-rentals",
   "dependencies": {
     "gh-pages": "^2.0.0",
     "moment": "^2.22.2",
