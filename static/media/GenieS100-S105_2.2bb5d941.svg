@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg113000"
+   xml:space="preserve"
+   width="822"
+   height="1056"
+   viewBox="0 0 822 1056"
+   sodipodi:docname="GenieS100-S105_2.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+     id="metadata113006"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs113004"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath113018"><path
+         d="M 0,792 H 616.5 V 0 H 0 Z"
+         id="path113016"
+         inkscape:connector-curvature="0" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath113028"><path
+         d="m 45,729.433 h 82.875 V 761.76 H 45 Z"
+         id="path113026"
+         inkscape:connector-curvature="0" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath113206"><path
+         d="M 223.68,192.96 H 382.334 V 402.701 H 223.68 Z"
+         id="path113204"
+         inkscape:connector-curvature="0" /></clipPath><mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask113210"><image
+         width="1"
+         height="1"
+         style="image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,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"
+         id="image113212" /></mask></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview113002"
+     showgrid="false"
+     inkscape:zoom="0.22348485"
+     inkscape:cx="411"
+     inkscape:cy="528"
+     inkscape:window-x="426"
+     inkscape:window-y="334"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g113008" /><g
+     id="g113008"
+     inkscape:groupmode="layer"
+     inkscape:label="GenieS100-S105"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1056)"><g
+       id="g113010"><g
+         id="g113012"><g
+           id="g113014"
+           clip-path="url(#clipPath113018)"><path
+             d="M -9,25.833 H 625.41 V -9 H -9 Z"
+             style="fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path113020"
+             inkscape:connector-curvature="0" /><g
+             id="g113022"><g
+               id="g113024"
+               clip-path="url(#clipPath113028)"><g
+                 id="g113030"
+                 transform="translate(64.9482,740.0076)"><path
+                   d="M 0,0 V 13.347 L -6.968,6.066 c 0,0 1.805,0.114 1.805,-2.095 0,0 -0.081,-1.585 -2.64,-1.6 -3.479,0.026 -6.289,2.854 -6.289,6.332 0,3.5 2.836,6.337 6.335,6.337 1.083,0 2.099,-0.268 2.988,-0.747 l 3.748,3.932 c -1.9,1.348 -4.226,2.14 -6.734,2.14 -6.444,0 -11.662,-5.219 -11.662,-11.662 0,-6.439 5.218,-11.659 11.662,-11.659 2.979,0 5.693,1.115 7.755,2.956"
+                   style="fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113032"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113034"
+                 transform="translate(90.8111,754.0553)"><path
+                   d="m 0,0 0.011,0.01 c -4.132,0 -7.563,-3.014 -8.213,-6.967 L -8.21,-6.963 v -0.003 h -0.004 l 0.004,0.003 c -0.646,3.952 -4.079,6.973 -8.22,6.973 -4.598,0 -8.323,-3.729 -8.323,-8.327 0,-4.597 3.725,-8.327 8.323,-8.327 0.474,0 0.702,-0.037 1.689,-0.037 h 6.56 4.853 l 0.003,8.406 c 0,1.85 1.499,3.346 3.346,3.346 1.848,0 3.346,-1.496 3.346,-3.346 v -8.406 h 4.952 l 0.009,8.356 C 8.328,-3.729 4.599,0 0,0 m -18.71,-10.779 c -0.658,0.611 -1.068,1.486 -1.068,2.454 0,1.862 1.507,3.37 3.365,3.37 0.919,0 1.75,-0.37 2.36,-0.966 z m 6.092,-1.005 4.478,4.53 4.479,-4.53 z"
+                   style="fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113036"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113038"
+                 transform="translate(107.5819,754.994)"><path
+                   d="m 0,0 h -8.947 l 4.475,4.532 z m -1.941,-1.73 h -5.042 v -15.941 h 5.042 z"
+                   style="fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113040"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113042"
+                 transform="translate(123.3307,746.8012)"><path
+                   d="M 0,0 -0.064,0.297 -0.068,0.291 V 0.288 h -0.006 l 0.006,0.003 c -0.646,3.952 -4.081,6.973 -8.218,6.973 -4.595,0 -8.327,-3.729 -8.327,-8.327 0,-4.597 3.732,-8.327 8.327,-8.327 0.466,0 0.696,-0.037 1.687,-0.037 H -0.01 L 0,-4.53 h -4.475 z m -10.571,-3.525 c -0.655,0.611 -1.066,1.486 -1.066,2.454 0,1.862 1.506,3.37 3.365,3.37 0.917,0 1.748,-0.37 2.356,-0.966 z"
+                   style="fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113044"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113046"
+                 transform="translate(125.5772,740.4751)"><path
+                   d="m 0,0 c -0.86,0 -1.548,-0.686 -1.548,-1.539 0,-0.856 0.688,-1.546 1.548,-1.546 0.854,0 1.545,0.69 1.545,1.546 C 1.545,-0.686 0.854,0 0,0 m 0,-2.797 c -0.742,0 -1.261,0.5 -1.261,1.26 0,0.756 0.519,1.252 1.261,1.252 0.725,0 1.257,-0.496 1.257,-1.252 0,-0.76 -0.532,-1.26 -1.257,-1.26"
+                   style="fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113048"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113050"
+                 transform="translate(126.2451,739.2126)"><path
+                   d="m 0,0 c 0,0.321 -0.197,0.418 -0.533,0.418 h -0.755 v -1.375 h 0.328 v 0.579 h 0.253 l 0.351,-0.579 H 0.033 L -0.35,-0.378 C -0.149,-0.365 0,-0.241 0,0 M -0.601,-0.134 H -0.972 V 0.18 h 0.371 c 0.17,0 0.318,0 0.318,-0.141 0,-0.173 -0.148,-0.173 -0.318,-0.173"
+                   style="fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113052"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113054"
+                 transform="translate(48.1599,731.4872)"><path
+                   d="M 0,0 H 1.453 L 0.738,1.738 H 0.726 Z M 0.426,2.187 H 1.057 L 2.732,-1.54 H 2.101 L 1.633,-0.418 H -0.18 L -0.66,-1.54 h -0.589 z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113056"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113058"
+                 transform="translate(54.2533,733.2568)"><path
+                   d="M 0,0 H -1.429 V 0.418 H 1.999 L 1.999,0 H 0.57 V -3.31 H 0 Z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113060"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113062"
+                 transform="translate(56.8378,733.6746)"><path
+                   d="M 0,0 H 2.96 V -0.418 H 0.57 V -1.603 H 2.798 V -2.02 H 0.57 V -3.31 H 2.978 V -3.727 H 0 Z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113064"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113066"
+                 transform="translate(62.3268,731.957)"><path
+                   d="M 0,0 C 0.534,0 0.991,0.12 0.991,0.663 0.991,1.028 0.762,1.3 0.228,1.3 H -1.189 V 0 Z m -1.759,1.718 h 2.017 c 0.805,0 1.303,-0.382 1.303,-0.977 0,-0.449 -0.228,-0.819 -0.745,-0.945 v -0.01 C 1.315,-0.298 1.417,-0.616 1.459,-0.981 1.495,-1.347 1.471,-1.754 1.711,-2.01 H 1.075 C 0.912,-1.858 1.003,-1.456 0.918,-1.091 0.859,-0.726 0.757,-0.418 0.204,-0.418 H -1.189 V -2.01 h -0.57 z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113068"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113070"
+                 transform="translate(64.8062,733.6746)"><path
+                   d="M 0,0 H 2.96 V -0.418 H 0.57 V -1.603 H 2.798 V -2.02 H 0.57 V -3.31 H 2.978 V -3.727 H 0 Z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113072"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113074"
+                 transform="translate(69.7379,731.8631)"><path
+                   d="m 0,0 -1.411,1.812 h 0.685 L 0.342,0.355 1.459,1.812 H 2.095 L 0.678,0 2.185,-1.916 H 1.489 l -1.153,1.54 -1.189,-1.54 h -0.642 z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113076"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113078"
+                 transform="translate(74.925,730.3649)"><path
+                   d="m 0,0 h 1.429 c 0.492,0 0.804,0.261 0.804,0.668 0,0.486 -0.45,0.621 -0.93,0.621 L 0,1.289 Z m 0,1.707 h 1.14 c 0.649,0 0.913,0.204 0.913,0.595 0,0.517 -0.42,0.59 -0.913,0.59 H 0 Z M -0.57,3.31 h 1.555 c 0.378,0 0.876,0 1.134,-0.136 C 2.401,3.028 2.623,2.761 2.623,2.396 2.623,1.999 2.383,1.702 1.987,1.561 V 1.55 C 2.515,1.456 2.804,1.112 2.804,0.652 c 0,-0.548 -0.451,-1.07 -1.303,-1.07 H -0.57 Z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113080"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113082"
+                 transform="translate(80.3262,731.957)"><path
+                   d="M 0,0 C 0.534,0 0.991,0.12 0.991,0.663 0.991,1.028 0.762,1.3 0.228,1.3 H -1.189 V 0 Z m -1.759,1.718 h 2.017 c 0.805,0 1.303,-0.382 1.303,-0.977 0,-0.449 -0.228,-0.819 -0.744,-0.945 v -0.01 c 0.498,-0.084 0.6,-0.402 0.642,-0.767 0.036,-0.366 0.012,-0.773 0.252,-1.029 H 1.075 c -0.163,0.152 -0.072,0.554 -0.156,0.919 -0.06,0.365 -0.162,0.673 -0.715,0.673 H -1.189 V -2.01 h -0.57 z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113084"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113086"
+                 transform="translate(83.7045,731.4872)"><path
+                   d="M 0,0 H 1.453 L 0.738,1.738 H 0.726 Z M 0.426,2.187 H 1.057 L 2.731,-1.54 H 2.101 L 1.633,-0.418 H -0.18 L -0.66,-1.54 h -0.589 z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113088"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113090"
+                 transform="translate(86.9919,733.6746)"><path
+                   d="M 0,0 H 0.606 L 2.864,-3.023 H 2.876 V 0 h 0.54 V -3.727 H 2.792 L 0.553,-0.736 H 0.54 V -3.727 H 0 Z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113092"
+                   inkscape:connector-curvature="0" /></g><g
+                 id="g113094"
+                 transform="translate(92.0065,730.3649)"><path
+                   d="m 0,0 h 0.949 c 0.39,0 1.44,0.094 1.44,1.467 0,0.887 -0.378,1.425 -1.428,1.425 L 0,2.892 Z m -0.57,3.31 h 1.471 c 1.32,0 2.058,-0.575 2.058,-1.775 0,-1.248 -0.63,-1.953 -2.058,-1.953 H -0.57 Z"
+                   style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path113096"
+                   inkscape:connector-curvature="0" /></g></g></g><text
+             transform="matrix(1,0,0,-1,44.8941,691.7329)"
+             style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113100"><tspan
+               x="0 8.3456001 16.7024 24.8176 29.3456 37.897598 42.729599 51.0928"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113098">Features</tspan></text>
+<text
+             transform="matrix(1,0,0,-1,489.9869,42.9801)"
+             style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113104"><tspan
+               x="0 7.4099998 14.82 21.68 24.459999 30.02 35.209999 40.580002 42.43 47.619999 49.470001 51.32 53.91 56.869999 59.650002 64.839996 70.400002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113102">www.genielift.com</tspan></text>
+<text
+             transform="matrix(1,0,0,-1,45.8941,164.5969)"
+             style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113108"><tspan
+               x="0 7.6100001 13 18.57 20.620001 26.01 28.99 36.040001 41.610001 43.66 46.82 52.209999 58.150002 61.130001 67.629997 70.790001 76.18 79.339996 84.730003 89.540001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113106">Genie United States </tspan></text>
+<text
+             transform="matrix(1,0,0,-1,45.8941,150.9969)"
+             style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113112"><tspan
+               x="0 4.1700001 8.3400002 12.51 16.68 18.764999 22.934999 27.105 31.275 33.494999 37.522499 39.607498 44.197498 47.669998 51.5625 53.647499 55.732498 61.012501"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113110">6464 185th Ave. NE</tspan></text>
+<text
+             transform="matrix(1,0,0,-1,45.8941,140.9969)"
+             style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113116"><tspan
+               x="0 5.0025001 8.8950005 13.2 19.4475 23.6175 27.645 31.950001 34.035 36.119999 42.78825 47.513248 49.598251 53.76825 57.938251 62.10825 66.278252 70.44825"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113114">Redmond, WA 98052 </tspan></text>
+<text
+             transform="matrix(1,0,0,-1,45.8941,128.8369)"
+             style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113120"><tspan
+               x="0 3.3375001 7.23 8.6175003 12.51 16.815001 20.842501 25.012501 29.040001 32.932499 35.017502 39.517502 43.6875 45.772499 47.580002 51.75 55.919998 60.09 61.897499 63.982498 68.152496 72.322502 76.4925 79.267502 83.4375 87.607498 91.777496"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113118">Telephone +1 (425) 881-1800</tspan></text>
+<text
+             transform="matrix(1,0,0,-1,45.8941,118.8369)"
+             style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113124"><tspan
+               x="0 3.3375001 7.5075002 8.8950005 10.2825 12.3675 16.395 18.622499 22.514999 26.407499 28.4925 29.879999 33.907501 35.9925 41.130001 45.855 50.580002 53.077499 58.357498 62.25 66.277496 70.169998 74.474998 78.3675 80.452499 84.952499 89.122498 91.207497 93.014999 97.184998 101.355 105.525 107.3325 110.1075 114.2775 118.4475 122.6175 125.3925 129.5625 133.7325 137.9025"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113122">Toll Free in USA/Canada +1 (800)-536-1800</tspan></text>
+<text
+             transform="matrix(1,0,0,-1,45.8941,108.8369)"
+             style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113128"><tspan
+               x="0 4.0275002 7.9200001 11.5275 13.6125 18.112499 22.282499 24.3675 26.174999 30.344999 34.514999 38.685001 40.4925 42.577499 46.747501 50.9175 55.087502 57.862499 62.032501 66.202499 70.372498"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113126">Fax +1 (425) 883-3475</tspan></text>
+<text
+             transform="matrix(1,0,0,-1,223.5441,165.5969)"
+             style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113132"><tspan
+               x="0 7.0500002 9.1000004 14.11 17.27 20.620001 22.67 28.610001 34.18 37.34 42.73 48.669998 51.650002 58.52 63.349998"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113130">Distributed By:</tspan></text>
+<g
+             id="g113134"
+             transform="translate(44.8941,177.7119)"><path
+               d="M 0,0 H 530.916"
+               style="fill:none;stroke:#c0bebc;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path113136"
+               inkscape:connector-curvature="0" /></g><text
+             transform="matrix(1,0,0,-1,45.8941,77.4638)"
+             style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Roman;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113140"><tspan
+               x="0 2.9497499 4.31775 5.7712498 8.3695002 10.96775 12.5115 13.6135 16.035999 18.634251 19.874001 23.265499 25.86375 27.407499 30.005751 31.373751 32.613499 35.126251 37.724499 40.412998 43.101501 45.699749 47.328999 49.400002 50.768002 52.007751 54.696251 57.38475 60.07325 62.761749 64.129753 65.369499 68.495003 70.03875 72.812752 75.677002 78.365501 80.963753 82.5075 83.747253 86.169746 89.033997 91.632248 94.230499 95.332497 97.8405 100.43875 103.037 104.58075 105.68275 108.45675 111.14525 113.56775 114.8075 117.40575 120.09425 122.9585 124.19825 127.0625 128.69176 129.79375 132.392 134.99025 137.41275 138.6525 141.25075 142.79449 145.39275 146.63251 149.05499 151.7435 154.60776 155.70975 158.308 160.90625 162.45 163.68974 165.23351 168.00751 169.24725 171.8455 174.534 177.13225 179.82076 182.59476 185.19299 186.43275 190.08075 191.18275 192.7265 195.41499 198.189 200.8775 202.42125 203.661 206.3495 209.1235 210.66725 211.76926 214.36749 216.96574 218.20551 220.97951 222.60875 223.8485 226.6225 229.48676 230.58875 231.69075 234.46475 237.063 238.60675 239.70876 242.48276 245.17125 246.53925 247.77901 250.55299 253.2415 255.83975 257.0795 259.94376 262.63226 265.40625 266.95001 269.724 272.49799 274.12726 276.72549 279.58975 282.27826 284.70074 285.94049 288.53876 291.22726 294.09149 295.72076 298.49475 300.12399 301.36374 304.228 305.85724 308.45551 312.10349 313.20551 315.89401 318.668 321.09052 322.33026 323.43225 326.12076 327.3605 328.90424 331.59274 332.69476 335.11725 336.35699 339.22125 341.99524 344.59351 347.28201 351.38126 353.97949 356.668 358.21176 359.45151 362.04974 363.59302 366.19128 367.43103 368.88452 371.65854 373.28778 374.52753 375.62952 376.73154 377.83353 380.52203 382.94452 384.48828 386.11752 388.71579 390.25952 391.36151 393.78403 396.38226 397.62204 400.48627 403.17477 404.80402 407.66827 410.44226 412.86478 415.46301 417.88553 419.12527 421.89926 424.58777 425.68979 427.76077 429.12878 430.36853 433.66977 436.26804 437.72153 440.31976 441.94904 443.18878 444.73251 447.50653 448.74628 450.29004 452.97852 455.57678 456.81653 459.41476 462.27902 465.14328 466.68701 469.46103 472.32529 473.95453 475.05652 477.65479 479.19852 481.79678 483.03653 486.69403 489.55829 492.15652 493.78577 496.38403 497.92776 500.70178 502.33102 503.34753 505.77002 507.00977 511.19452 513.79279 516.48126 519.1698 521.76801 522.87 524.1098 525.56329 528.33728 529.91901"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113138">Effective Date: January, 2016. Product specifcations and prices are subject to change without notice or obligation. The photographs and/or drawings in this document are for illustrative purposes only. Refer to the appropriate Operator’s Manual for </tspan></text>
+<text
+             transform="matrix(1,0,0,-1,45.8941,71.4638)"
+             style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Roman;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113144"><tspan
+               x="0 1.102 3.7904999 6.2129998 7.7567501 9.3859997 12.0745 14.67275 16.216499 17.318501 20.092501 22.781 25.203501 26.609501 29.383499 32.071999 33.478001 35.021751 37.710251 40.308498 41.7145 44.578751 46.122501 48.8965 51.76075 54.359001 55.988251 57.394249 60.082748 62.505249 65.1035 66.509499 69.283501 70.737 72.142998 73.686752 76.375252 77.477249 79.89975 81.305748 83.903999 86.76825 89.456749 90.558746 93.422997 97.522247 100.1205 102.809 104.35275 105.72075 107.12675 109.90075 112.499 113.601 114.703 117.3915 118.93525 121.5335 122.9395 124.48325 127.25725 128.66325 130.11674 132.89075 133.99275 135.09476 137.86874 141.51675 142.92274 144.46651 147.155 149.75325 151.15926 153.75751 156.62175 159.48599 161.02975 163.80376 166.668 168.29726 169.39925 171.9975 173.54124 176.1395 177.5455 181.203 184.06725 186.6655 188.29475 190.89301 192.43675 195.21075 196.84 197.85651 200.27901 201.685 205.86975 208.468 211.15649 213.845 216.44325 217.54526 218.95125 222.59924 225.28775 227.886 230.57449 231.9805 234.66901 237.09151 238.1935 240.882 243.65601 245.062 247.836 250.52451 252.15375 253.55975 256.15799 259.02225 261.71075 262.81274 265.677 269.77625 272.37451 275.06299 276.60675 278.01276 280.78674 282.41599 283.82199 285.36575 288.13974 289.54575 292.31976 293.86349 296.552 299.15024 300.77951 304.42749 305.52951 307.952 310.55026 311.95624 314.5545 317.15274 318.6965 320.10251 321.2045 322.83374 324.3775 326.97574 329.39825 332.26251 335.0365 337.72501 340.14749 341.24951 344.11374 345.21576 347.63824 349.04425 353.14349 355.74176 358.16425 359.57025 361.11401 363.71225 366.13474 368.82324 369.92526 371.46899 372.875 373.97699 376.6655 378.0715 380.49399 383.09225 384.7215 385.82349 388.5975 391.28601 393.7085 395.1145 396.21649 398.905 400.00699 402.6955 404.32474 406.74725 408.15326 410.92725 412.55649 413.96249 416.82675 419.42499 422.02325 423.56699 426.25549 427.6235 429.02951 431.8035 434.492 437.09024 438.49625 441.27026 443.95874 445.06076 447.48325 448.88925 452.53726 455.1355 456.76474 458.39401 460.99225 463.68076 465.22449 467.647 469.05301 471.65125 474.5155 477.37976 478.48175 479.58374 482.18201 484.78024 487.6445 488.74649 491.34476 492.75076 494.29449 497.06851 498.47449 501.2485 503.93701 505.56625 506.97226 509.5705 512.43475 515.12323 516.22522 519.08948 523.18872 525.78699 528.47552 529.97174"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113142">instructions on the proper use of this equipment. Failure to follow the appropriate Operator’s Manual when using our equipment or to otherwise act irresponsibly may result in serious injury or death. The only warranty applicable to our equipment </tspan></text>
+<text
+             transform="matrix(1,0,0,-1,45.8941,65.4638)"
+             style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Roman;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113148"><tspan
+               x="0 1.102 3.5244999 5.0587502 6.6025 9.2910004 11.88925 13.4235 15.846 17.38975 19.988001 22.6765 25.540751 28.139 29.682751 32.547001 34.081249 37.729252 39.358501 40.460499 42.00425 43.548 46.146252 48.834751 50.368999 54.016998 56.61525 58.244499 59.873749 62.472 65.1605 66.704247 69.126747 70.661003 73.259247 76.123497 78.987747 80.089752 81.19175 83.790001 86.388252 89.252502 90.3545 92.952751 94.487 96.030746 98.804749 100.339 101.88275 104.57125 107.1695 108.70375 111.568 114.16625 115.7955 117.33925 118.44125 121.0395 123.728 124.83 127.42825 129.0575 130.59175 133.45599 135.00023 137.77423 140.63847 143.32698 145.92523 147.46898 149.00322 151.60147 154.28998 157.15422 158.68848 161.11098 163.70923 164.81122 167.40947 168.94373 171.54198 174.23047 177.09473 178.62898 182.27698 184.87523 186.40947 190.50873 193.10698 195.61972 198.21797 199.75223 202.44072 205.21472 206.74898 209.52298 211.06673 213.75522 216.35347 217.98273 219.51697 223.16498 225.76323 227.39247 229.02173 231.61998 234.30847 235.85222 237.92322 239.29123 240.82547 243.42372 245.93173 248.79597 250.33972 252.93797 255.36047 257.78299 259.31723 262.09122 263.72049 265.25473 266.35672 270.45596 273.32022 274.42221 275.52423 278.12247 280.98672 282.35474 283.88898 287.01447 288.55823 291.33221 294.19647 296.88498 299.48322 301.02698 303.44946 304.98373 307.58197 310.27048 313.13474 314.66898 317.09146 319.68973 321.31897 323.74149 324.84348 327.44171 330.03998 332.46246 333.99673 335.09872 336.20071 338.62323 340.16696 342.76523 345.62949 347.16373 351.26297 353.86124 356.28372 357.81796 360.68222 363.28049 364.81473 366.35849 367.98773 370.58597 373.45023 376.04846 380.14774 382.74597 384.37521 386.88797 389.31049 390.67847 392.21274 394.63522 397.23349 398.86273 401.28522 402.38724 404.98547 407.58374 409.11798 413.21722 415.81546 417.44473 419.95749 422.37997 423.91422 426.68823 428.31747 429.85172 431.39548 433.02472 435.62299 438.48721 441.08548 442.61972 445.30823 447.90646 452.00574 454.60397 457.02649 458.56073 461.33472 462.78824 464.32248 466.56921 469.16748 470.71121 473.30948 475.81747 477.35172 480.82874 483.60272 485.23196 488.09622 490.87024 492.49948 495.09772 496.64148 497.74347 500.51749 503.20596 504.74023 507.33847 510.02698 512.89124 514.52045 517.29449 518.92371 520.45795 522.00171 524.69025 527.28845 528.3905 529.97223"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113146">is the standard written warranty applicable to the particular product and sale and we make no other warranty, express or implied. Products and services listed may be trademarks, service marks or trade names of Terex Corporation and/or their </tspan></text>
+<text
+             transform="matrix(1,0,0,-1,45.8941,59.4638)"
+             style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Roman;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113152"><tspan
+               x="0 2.4224999 5.1110001 7.9752498 10.39775 11.49975 14.364 15.466 18.064251 19.693501 20.7955 23.393749 25.81625 27.18425 28.286249 30.974751 32.342751 33.886501 36.575001 39.173248 40.541248 44.01825 47.143749 50.269249 51.637249 54.2355 56.924 59.78825 61.15625 65.255501 67.853752 70.542252 72.964752 74.332748 77.10675 78.650497 81.338997 83.937248 85.566498 86.934502 89.532753 92.306747 94.995247 97.683746 99.227501 100.85675 101.95875 104.557 106.9795 108.3475 109.7155 111.96225 114.5605 116.10425 118.7025 121.2105 122.5785 123.9465 127.59925 130.19749 132.886 133.98801 136.58624 137.95425 140.55251 143.241 146.10526 147.47325 150.48476 154.93076 158.05624 159.42426 162.02251 163.56625 166.16451 167.5325 169.07625 171.6745 174.4485 175.55051 177.97301 179.51675 182.11501 183.65875 186.257 189.12125 190.48924 192.033 193.66225 196.2605 199.12476 201.72301 205.82225 208.4205 210.04974 212.5625 214.985 216.353 219.127 220.58051 221.9485 224.19525 226.7935 228.33725 230.9355 233.4435 234.81149 238.2885 241.0625 242.69176 245.556 248.33 249.95924 252.5575 254.10126 255.20325 257.97726 260.66574 262.03375 264.80774 266.43701 267.80499 268.90701 270.45074 272.87326 274.24124 276.66376 279.35226 282.21649 284.63901 285.741 288.60526 289.70724 292.30551 293.93475 295.03674 297.63501 300.0575 301.42551 302.79349 306.64099 308.009 310.69751 313.38599 316.07449 318.763 320.13101 322.37775 324.97601 326.51974 329.11801 331.62601 332.99399 336.47101 339.245 340.87424 343.73849 346.51251 348.14175 350.73999 352.28375 353.38574 356.15976 358.84824"
+               y="0"
+               sodipodi:role="line"
+               id="tspan113150">subsidiaries in the USA and many other countries. Terex, Genie and AWP are registered trademarks of Terex Corporation or its subsidiaries. © 2016 Terex Corporation.</tspan></text>
+</g></g></g><text
+       transform="matrix(1,0,0,-1,165.69,715.7852)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113156"><tspan
+         x="0"
+         y="0"
+         id="tspan113154">S</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,177.0298,725.1152)"
+       style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.82999992px;font-family:'HelveticaNeueLT Std Cn';-inkscape-font-specification:HelveticaNeueLTStd-Cn;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113160"><tspan
+         x="0"
+         y="0"
+         id="tspan113158">™</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,182.8015,715.7852)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113164"><tspan
+         x="0 6.6599998 16.667999 26.676001 36.683998 42.192001 53.189999 58.698002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113162">-100 &amp; S</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,252.8319,725.1152)"
+       style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.82999992px;font-family:'HelveticaNeueLT Std Cn';-inkscape-font-specification:HelveticaNeueLTStd-Cn;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113168"><tspan
+         x="0"
+         y="0"
+         id="tspan113166">™</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,258.6035,715.7852)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113172"><tspan
+         x="0 6.6599998 16.667999 26.676001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113170">-105</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,165.6908,740.6331)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:26px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113176"><tspan
+         x="0 16.224001 29.6842 34.359001 40.128399 49.569 65.5616 73.2836 87.583603 102.4036 115.8638 120.445 125.1172 138.5722 153.4962 160.7242 172.6452 186.10539 190.77499 204.2924 216.61121 230.009 244.30901 259.077 263.7128 277.20679 284.43481 301.6676 316.0144 330.31439 351.79819"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113174">Self-Propelled Telescopic Booms</tspan></text>
+<path
+       d="m 402.358,674.232 h 153.937 v 12.465 H 402.358 Z"
+       style="fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path113178"
+       inkscape:connector-curvature="0" /><text
+       transform="matrix(1,0,0,-1,404.7582,676.8947)"
+       style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:10px;font-family:'HelveticaNeueLT Std Cn';-inkscape-font-specification:HelveticaNeueLTStd-Cn;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113182"><tspan
+         x="0 5.5599999 10.19 12.78 14.82 19.26 23.889999 27.959999 30.360001 35.919998 37.949001 42.949001 47.209 51.469002 55.909 59.979 64.049004 68.488998 71.448997 73.488998 77.929001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113180">Options &amp; Accessories</tspan></text>
+<path
+       d="m 223.544,674.232 h 174.35 v 12.465 h -174.35 z"
+       style="fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path113184"
+       inkscape:connector-curvature="0" /><text
+       transform="matrix(1,0,0,-1,225.9441,676.8947)"
+       style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:10px;font-family:'HelveticaNeueLT Std Cn';-inkscape-font-specification:HelveticaNeueLTStd-Cn;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113188"><tspan
+         x="0 4.6300001 9.0699997 13.14 15.18 17.219999 21.280001 23.68 28.870001 33.310001 37.939999 42.57 47.200001 51.830002 54.790001 59.23 63.860001 65.889 69.778999 74.219002 76.619003 83.658997 88.098999 92.539001 95.128998 97.157997 101.028 105.468 110.098 113.058 115.458 121.018 125.458 129.89799 134.528"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113186">Easily Confgured To Meet Your Needs</tspan></text>
+<path
+       d="m 45,674.232 h 174.35 v 12.465 H 45 Z"
+       style="fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path113190"
+       inkscape:connector-curvature="0" /><text
+       transform="matrix(1,0,0,-1,47.4,676.8947)"
+       style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:10px;font-family:'HelveticaNeueLT Std Cn';-inkscape-font-specification:HelveticaNeueLTStd-Cn;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113194"><tspan
+         x="0 5 7.5900002 12.03 16.66 21.290001 25.73 28.690001 33.32 35.720001 39.918999 44.359001 48.898998 51.488998 56.118999 59.078999 63.519001 67.588997"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113192">Standard Features </tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45.8941,43.5525)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Roman;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113198"><tspan
+         x="0 3.1255 5.8140001 8.5024996 11.191 12.559 15.2475 17.936001 20.6245 23.313 26.001499 27.369499 28.737499 31.863001 34.46125 36.0905 37.634251 39.002251 42.479252 45.25325 46.62125 47.98925 50.67775 53.366249 56.054749 58.743252 61.431751"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113196">S100 0210L. Part No. 109370</tspan></text>
+<g
+       id="g113200"><g
+         id="g113202"
+         clip-path="url(#clipPath113206)"><g
+           id="g113208"
+           transform="matrix(158.6542,0,0,210.79347,223.67947,191.90685)"><image
+             width="1"
+             height="1"
+             style="image-rendering:optimizeSpeed"
+             preserveAspectRatio="none"
+             transform="matrix(1,0,0,-1,0,1)"
+             xlink:href="data:image/png;base64,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"
+             mask="url(#mask113210)"
+             id="image113214" /></g></g></g><text
+       transform="matrix(1,0,0,-1,223.5441,660.3001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113218"><tspan
+         x="0 6.5 8.5500002 13.94 17.1 19.889999 25.65 29 37.529999 40.509998 48.119999 54.060001 57.220001 59.27 65.029999 70.599998"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113216">Platform Options</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,645.8001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113222"><tspan
+         x="0 4.5 9 14.67 17.334 22.004999 26.676001 28.341 31.094999 36.098999 38.853001 41.183998 43.848 46.602001 48.771 53.775002 56.277 61.280998 66.285004 69.039001 76.536003 78.705002 81.459 83.627998 87.957001 90.621002 95.292 100.125 105.291 109.962 112.635 117.801"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113220">• Steel 8 ft (2.44 m) (standard)</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,634.0001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113226"><tspan
+         x="0 4.5 9 14.67 17.334 22.004999 26.676001 28.341 31.094999 36.098999 38.853001 41.183998 43.848 46.602001 48.771 53.775002 56.277 61.280998 66.285004 69.039001 76.536003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113224">• Steel 6 ft (1.83 m)</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,622.2001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113230"><tspan
+         x="0 4.5 9 14.67 17.334 22.004999 26.676001 28.341 31.094999 36.098999 38.853001 41.183998 43.848 46.602001 48.771 53.775002 56.277 61.280998 66.285004 69.039001 76.536003 78.705002 81.459 84.123001 86.958 88.623001 91.953003 96.624001 101.457 104.121 106.956 111.123"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113228">• Steel 8 ft (2.44 m) tri-entry </tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,603.9001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113234"><tspan
+         x="0 5.1999998 7.25 13.19 16.17 23.780001 29.719999 32.880001 34.93 40.689999 46.259998"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113232">Jib Options</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,589.4001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113238"><tspan
+         x="0 4.5 9 15.336 20.34 25.173 28.503 30.167999 31.833 36.999001 39.752998 41.922001 47.591999 50.922001 55.925999 60.93 65.933998 68.688004 73.692001 78.525002 80.190002 84.357002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113236">• Non-jib (S-100 only)</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,577.6001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113242"><tspan
+         x="0 4.5 9 14.004 16.757999 19.089001 21.753 24.507 26.676001 31.68 34.181999 39.186001 44.189999 46.944 54.441002 56.610001 59.363998 61.028999 62.694 67.860001 70.613998 75.779999 80.783997 85.788002 93.285004 96.039001 98.208 103.878 107.208 112.212 117.216 122.22 124.974 129.978 134.811 136.476 140.64301"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113240">• 5 ft (1.52 m) jib boom (S-105 only)</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,559.3001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113246"><tspan
+         x="0 6.1300001 11.7 17.459999 19.51 25.08 30.469999 33.450001 41.060001 47 50.16 52.209999 57.970001 63.540001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113244">Engine Options</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,544.8001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113250"><tspan
+         x="0 4.5 9 14.004 19.007999 21.761999 26.594999 31.761 34.514999 36.683998 41.688 46.692001 49.445999 53.945999 62.109001 64.278 67.031998 73.196999 77.867996 82.700996 85.364998 89.531998 92.286003 94.949997 99.782997 102.618 107.784 112.788 115.542 120.708 122.373 127.044 131.373 136.04401 137.709 140.463 145.467 150.47099 152.802 155.97"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113248">• 74 hp (55 kW) Deutz turbo diesel T4f* </tspan></text>
+<text
+       transform="matrix(1,0,0,-1,232.5441,534.8001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113254"><tspan
+         x="0 2.1689999 7.8390002 10.503 15.174 20.007 25.173 29.844 32.516102 37.682098"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113252">(Standard)</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,523.0001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113258"><tspan
+         x="0 4.5 9 14.004 19.007999 21.761999 26.594999 31.761 34.514999 36.683998 41.688 46.692001 49.445999 53.945999 62.109001 64.278 67.031998 72.702003 77.373001 80.208 84.708 86.373001 91.206001 95.535004 98.289001 100.953 105.786 108.621 113.787 118.791 121.545 126.711 128.37601 133.047 137.37601 142.047 143.71201 146.466 151.47 156.474 158.80499"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113256">• 74 hp (55 kW) Perkins turbo diesel T4f*</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,504.7001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113262"><tspan
+         x="0 7.0500002 10.4 12.45 17.280001 22.67 26.200001 32.700001 35.860001 41.25 46.639999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113260">Drive/Steer</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,490.2001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113266"><tspan
+         x="0 4.5 9 14.004 22.167 28.332001 31.086 33.255001 37.584 40.248001 44.918999 49.751999 54.917999 59.589001 62.261101 67.427101"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113264">• 4WD (standard)</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,478.4001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113270"><tspan
+         x="0 4.5 9 14.004 22.167 27.837 30.591 32.759998 37.089001 39.752998 44.424 49.257 54.423 59.094002 61.766102 66.932098"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113268">• 4WS (standard)</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,460.1001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113274"><tspan
+         x="0 6.5 11.51 13.56"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113272">Axle</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,445.6001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113278"><tspan
+         x="0 4.5 9 14.337 18.666 21.33 26.000999 30.834 36 40.671001 45.837002 47.501999 52.173 54.926998 59.598 63.926998 65.592003 70.263 74.592003 77.346001 79.514999 83.844002 86.508003 91.179001 96.012001 101.178 105.849 108.5211 113.6871"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113276">• Extendable axles (standard)</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,427.3001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113282"><tspan
+         x="0 6 8.0500002 11.22"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113280">Tire</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,223.5441,412.8001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113286"><tspan
+         x="0 4.5 9 15.003 20.007 24.84 29.844 34.676998 37.431 40.095001 44.765999 47.601002 50.436001 55.106998 56.771999 61.605 64.359001 66.690002 71.694 76.364998 83.862 87.192001 89.523003 91.188004 92.852997 94.517998 99.189003 104.355 107.109 109.278 113.607 116.271 120.942 125.775 130.94099 135.612 138.285 143.451"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113284">• Rough terrain foam-filled (standard)</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,660.3001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113290"><tspan
+         x="0 6.5 9.6700001 15.43 21.370001 26.940001 32.330002 35.490002 37.540001 42.369999 44.419998 47.580002 52.41 55.389999 63 68.940002 72.099998 74.150002 79.910004 85.480003 90.290001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113288">Productivity Options </tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,645.8001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113294"><tspan
+         x="0 4.5 9 15.336 20.007 21.672001 24.003 27.333 34.830002 39.500999 43.830002 48.662998 51.417 56.583 58.248001 62.918999 65.583 67.914001 72.917999 75.752998 83.25 86.003998 87.668999 92.501999 96.831001 101.502 104.337 107.001 111.33 114.084 120.753 122.418 125.082 129.91499"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113292">• Half-mesh platform inserts with </tspan></text>
+<text
+       transform="matrix(1,0,0,-1,411.3583,635.8001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113298"><tspan
+         x="0 4.329 10.998 12.663 17.496 22.5 25.254 30.257999 34.929001 37.592999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113296">swing gate</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,624.0001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113302"><tspan
+         x="0 4.5 9 14.67 16.334999 21.006001 23.67 26.000999 31.004999 33.84 41.337002 44.091 46.755001 51.758999 56.924999 59.679001 64.349998 69.182999 73.512001 75.177002 76.842003 78.507004 83.178001 86.013 90.18 92.933998 95.768997 100.44 102.105"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113300">• Platform top auxiliary rail</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,612.2001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113306"><tspan
+         x="0 4.5 9 17.000999 21.672001 23.337 28.503 33.174 36.008999 38.763 43.929001 48.599998 53.271 57.771 62.442001 67.445999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113304">• Welder package</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,600.4001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113310"><tspan
+         x="0 4.5 9 15.165 19.836 21.500999 26.334 30.663 35.334 38.088001 42.921001 47.924999 52.254002 54.917999 56.583 58.248001 62.918999 65.672997 70.344002 75.177002 79.344002 81.009003 83.681999 88.685997 93.518997 101.016 105.687 110.52 113.184 115.938 120.438 122.103"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113308">• Deluxe hostile environment kit</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,588.6001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113314"><tspan
+         x="0 4.5 9 14.004 18.837 23.67 31.167 36.333 39.087002 41.759998 46.764 51.435001 55.935001 60.605999 63.441002 66.195 70.524002 73.188004 77.859001 82.529999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113312">• Thumb rocker steer</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,576.8001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113318"><tspan
+         x="0 4.5 9 13.833 15.498 20.502001 25.334999 27.999001 30.753 35.918999 40.59 45.261002 49.761002 54.431999 59.436001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113316">• Light package</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,565.0001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113322"><tspan
+         x="0 4.5 9 14.337 19.17 21.834 24.669001 28.836 31.59 34.254002 39.257999 43.929001 46.682999 51.848999 56.853001 61.523998 64.196999 69.362999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113320">• Entry toe boards</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,553.2001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113326"><tspan
+         x="0 4.5 9 14.67 16.334999 21.500999 26.172001 28.926001 33.597 36.431999 41.103001 46.269001 47.933998 52.605 55.359001 57.528 62.694 67.364998 69.029999 71.864998"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113324">• Pipe cradle (pair)</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,541.4001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113330"><tspan
+         x="0 4.5 9 14.67 19.341 24.174 28.844999 30.51 33.264 37.935001 40.77 45.441002 50.606998 52.271999 56.943001 59.696999 64.862999 69.533997 74.205002 78.705002 83.375999 88.379997"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113328">• Panel cradle package</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,529.6001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113334"><tspan
+         x="0 4.5 9 15.669 20.834999 25.506001 28.341 33.012001 35.675999 40.68 43.514999 46.269001 51.938999 54.612 59.616001 62.279999 66.950996 71.622002 74.286003 75.950996 80.117996 84.789001 87.542999 93.212997 95.876999 98.711998 103.545 108.216 110.88 115.713 118.3851 123.0561 126.2241"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113332">• Operator Protective Structure**</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,517.8001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113338"><tspan
+         x="0 4.5 9 15.669 20.834999 25.506001 28.341 33.012001 35.675999 40.68 43.514999 46.269001 51.938999 54.612 59.616001 62.279999 66.950996 71.622002 74.286003 75.950996 80.117996 84.789001 87.542999 93.212997 94.877998 99.549004 102.384"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113336">• Operator Protective Alarm</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,506.0001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113342"><tspan
+         x="0 4.5 9 13.833 18.504 20.169001 21.834 24.587999 30.257999 33.092999 35.765099 40.4361 44.765099 47.4291 50.183102 56.1861 60.857101"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113340">• Fall Arrest Bar</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,487.7001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113346"><tspan
+         x="0 6.5 12.26 19.870001 25.26 28.610001 31.59 39.200001 45.139999 48.299999 50.349998 56.110001 61.68"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113344">Power Options</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,473.2001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113350"><tspan
+         x="0 4.5 9 15.336 20.34 22.004999 27.171 29.924999 36.594002 41.264999 45.936001 48.599998 53.432999 58.104 60.938999 63.693001 68.193001 69.858002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113348">• Cold weather kit</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,461.4001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113354"><tspan
+         x="0 4.5 9 15.165 16.83 21.500999 25.83 30.500999 32.166 34.919998 39.249001 43.919998 46.755001 51.588001 56.754002 61.919998 66.591003 69.426003 72.422997 77.094002 81.764999 84.429001 89.099998 90.764999 94.931999 97.596001 99.261002 103.932 106.686 114.183 119.016 121.1841 123.5151 125.1801 129.8511"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113352">• Diesel scrubber/catalytic muffler</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.3583,449.6001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113358"><tspan
+         x="0 4.5 9 10.998 15.831 18.495001 23.166 27.666 32.337002 35.091 39.762001 41.426998 44.262001 47.015999 52.181999 54.855 59.526001 62.855999 67.527 69.192001 73.862999 78.533997 83.366997 88.038002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113356">• Intake air pre-cleaner</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,660.3001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113362"><tspan
+         x="0 8.5299997 13.92 19.309999 24.32 29.889999 33.060001 38.450001 46.98 52.369999 57.939999 61.099998"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113360">Measurements</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,648.8601)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Bd;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113366"><tspan
+         x="0"
+         y="0"
+         id="tspan113364">S</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,50.8409,651.8571)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.24700022px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Bd;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113370"><tspan
+         x="0"
+         y="0"
+         id="tspan113368">™</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,56.0879,648.8601)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Bd;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113374"><tspan
+         x="0 3.6630001 8.6669998 13.671"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113372">-100</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,637.4201)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113378"><tspan
+         x="0 4.5 9 14.004 19.007999 24.011999 26.766001 29.097 31.761 34.514999 36.683998 41.688 46.692001 49.194 54.198002 59.202 61.956001 69.453003 71.622002 74.375999 81.044998 86.049004 88.884003 93.384003 95.049004 99.882004 104.886 107.64 112.473 117.144 118.809 123.813 128.646"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113376">• 106 ft (32.48 m) working height</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,625.9801)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113382"><tspan
+         x="0 4.5 9 14.004 19.007999 21.761999 24.093 26.757 29.511 31.68 36.683998 41.688 44.189999 49.194 54.198002 56.952 64.448997 66.617996 69.372002 74.205002 79.209 82.043999 83.709 87.875999 92.879997 97.712997 100.377 105.048 106.713 109.467 112.14 116.811 121.482 126.153"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113380">• 75 ft (22.86 m) horizontal reach</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,614.5401)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113386"><tspan
+         x="0 4.5 9 14.004 19.007999 24.011999 26.766001 28.431 33.597 36.351002 38.52 43.523998 48.528 53.532001 56.285999 60.785999 65.790001 67.959 70.712997 72.377998 74.042999 76.374001 79.038002 81.792 86.462997 91.134003 96.300003 100.971 105.642 107.307 109.971"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113384">• 750 lb (340 kg) lift capacity</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,603.1001)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Bd;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113390"><tspan
+         x="0"
+         y="0"
+         id="tspan113388">S</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,50.8409,606.0971)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.24700022px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Bd;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113394"><tspan
+         x="0"
+         y="0"
+         id="tspan113392">™</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,56.0879,603.1001)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Bd;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113398"><tspan
+         x="0 3.6630001 8.6669998 13.671"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113396">-105</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,591.6601)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113402"><tspan
+         x="0 4.5 9 14.004 19.007999 24.011999 26.766001 29.097 31.761 34.514999 36.683998 41.688 46.692001 49.194 54.198002 59.202 61.956001 69.453003 71.622002 74.375999 81.044998 86.049004 88.884003 93.384003 95.049004 99.882004 104.886 107.64 112.473 117.144 118.809 123.813 128.646"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113400">• 111 ft (34.00 m) working height</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,580.2201)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113406"><tspan
+         x="0 4.5 9 14.004 19.007999 21.761999 24.093 26.757 29.511 31.68 36.683998 41.688 44.189999 49.194 54.198002 56.952 64.448997 66.617996 69.372002 74.205002 79.209 82.043999 83.709 87.875999 92.879997 97.712997 100.377 105.048 106.713 109.467 112.14 116.811 121.482 126.153"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113404">• 80 ft (24.38 m) horizontal reach</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,568.7801)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113410"><tspan
+         x="0 4.5 9 14.004 19.007999 24.011999 26.766001 28.431 33.597 36.351002 38.52 43.523998 48.528 53.532001 56.285999 60.785999 65.790001 67.959 70.712997 72.377998 74.042999 76.374001 79.038002 81.792 86.462997 91.134003 96.300003 100.971 105.642 107.307 109.971"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113408">• 500 lb (227 kg) lift capacity</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,555.3401)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113414"><tspan
+         x="0 6.5 9.6700001 15.43 21.370001 26.940001 32.330002 35.490002 37.540001 42.369999 44.419998 47.580002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113412">Productivity</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,543.9001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113418"><tspan
+         x="0 4.5 9 14.67 19.341 21.006001 23.337 26.667 28.332001 33.002998 37.169998 41.841 43.506001 45.171001 50.004002 55.007999 57.762001 62.928001 64.593002 69.264 71.928001 74.259003 79.263 82.098"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113416">• Self-leveling platform</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,532.4601)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113422"><tspan
+         x="0 4.5 9 14.004 19.007999 24.011999 27.612 30.365999 35.199001 39.366001 44.532001 47.367001 52.037998 56.870998 58.535999 60.201 64.872002 67.625999 72.792 74.457001 79.127998 81.792 84.123001 89.126999 91.961998 99.459 102.213 104.886 109.89 112.554 117.225 119.889 121.554 126.558"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113420">• 160° hydraulic platform rotation</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,521.02)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113426"><tspan
+         x="0 4.5 9 14.67 17.343 22.347 27.513 32.516998 35.352001 38.015999 39.681 44.685001 49.518002 54.188999 55.854 58.608002 60.272999 65.277 69.444 73.773003 76.436996 78.101997 82.773003 87.273003 90.027 94.697998 99.702003 104.535 107.199 109.872 114.876 116.541"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113424">• Proportional joystick controls</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,509.58)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113430"><tspan
+         x="0 4.5 9 15.336 19.503 24.669001 27.504 32.174999 37.007999 38.673 40.338001 45.008999 47.763 52.766998 54.431999 56.097 58.851002 63.521999 68.526001 73.529999 75.195 79.865997"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113428">• Hydraulic oil cooler</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,498.14)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113434"><tspan
+         x="0 4.5 9 15.165 18 19.665001 23.832001 28.503 31.257 35.928001 40.761002 45.431999 50.598 52.263"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113432">• Drive enable</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,486.7)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113438"><tspan
+         x="0 4.5 9 14.67 21.006001 23.76 28.926001 33.93 40.598999 45.27 48.105 50.859001 55.529999 60.534 63.2061 68.372101 71.126099 73.7901 78.794098 81.548103 84.212097 89.045097 93.716103 96.4701 101.6361 103.3011 107.9721 110.6361 112.9671 117.9711 120.8061"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113436">• AC power cord to the platform</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,475.2601)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113442"><tspan
+         x="0 4.5 9 15.336 20.34 23.337"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113440">• Horn</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,463.8201)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113446"><tspan
+         x="0 4.5 9 15.336 20.34 25.173 28.007999 30.761999 38.258999 42.93 45.594002 50.264999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113444">• Hour meter</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,452.3801)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113450"><tspan
+         x="0 4.5 9 14.22 15.885 17.549999 20.214001 22.968 27.639 29.304001 33.974998 36.810001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113448">• Tilt alarm</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,440.9401)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113454"><tspan
+         x="0 4.5 9 15.165 19.836 24.165001 28.836 33.507 38.34 41.004002 43.757999 48.429001 50.094002 54.764999 57.599998"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113452">• Descent alarm</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,429.5001)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113458"><tspan
+         x="0 4.5 9 14.004 19.007999 24.011999 27.612 30.365999 35.036999 40.041 44.874001 47.537998 49.202999 54.035999 58.868999 63.873001 68.706001 73.035004 75.789001 78.453003 83.286003 86.282997 91.115997 93.779999 98.450996 103.617 105.282 109.953 112.707 115.38 120.384 123.048 127.719 130.383 132.048 137.052"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113456">• 360° continuous turntable rotation</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,418.0601)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113462"><tspan
+         x="0 4.5 9 14.67 19.674 24.003 25.667999 28.332001 29.997 34.164001 38.834999 41.589001 44.252998 47.088001 51.758999 56.43 59.094002 60.758999 65.763 70.596001 73.349998 78.353996 86.516998"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113460">• Positive traction 4WD</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,406.6201)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113466"><tspan
+         x="0 4.5 9 13.005 19.674 24.677999 27.431999 31.761 36.926998 41.598 46.269001 51.435001 54.188999 60.858002 65.691002 70.362 75.032997 76.697998 79.452003 86.948997 91.953003 94.616997 99.621002 102.456"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113464">• Two speed wheel motors</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,395.1801)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113470"><tspan
+         x="0 4.5 9 13.833 18.837 23.67 26.504999 29.259001 35.928001 40.761002 45.431999 50.103001 51.768002 54.521999 59.355 61.02 66.024002 70.857002 73.611 78.281998 83.114998 88.119003 89.783997 94.455002 97.209 101.538 104.202 108.873 113.544"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113468">• Four wheel high angle steer</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,383.7401)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113474"><tspan
+         x="0 4.5 9 13.833 18.837 23.67 26.504999 29.259001 33.588001 36.251999 40.923 45.594002 48.429001 50.094002 54.926998 59.931 62.685001 70.181999 75.185997 80.351997 85.023003 89.351997 91.853996 94.608002 96.939003 99.612 104.616 109.449 112.113 114.615 117.369 120.042 124.713 129.384 131.39101 133.89301 136.647 141.31799 144.153 148.82401 153.99001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113472">• Four steering modes: front, rear, crab </tspan></text>
+<text
+       transform="matrix(1,0,0,-1,54,373.7401)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113478"><tspan
+         x="0 4.671 9.5039997 14.67 17.424 22.094999 27.099001 32.103001 34.776001 39.942001 41.606998 46.439999 51.111 53.775002 58.445999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113476">and coordinated</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,362.3)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113482"><tspan
+         x="0 4.5 9 15.669 20.502001 23.256001 28.422001 33.425999 38.097 40.77 45.936001 48.689999 51.021 55.854 57.519001 59.183998 61.938 67.103996 68.768997 73.440002 78.444 83.277 88.280998 92.610001 95.274002 96.939003 101.61 105.939 108.693 113.364 118.197 123.363 126.117 130.78799 135.621 140.625 142.28999 147.123 151.79401"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113480">• On board full diagnostics and engine </tspan></text>
+<text
+       transform="matrix(1,0,0,-1,54,352.3)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113486"><tspan
+         x="0 7.4970002 12.501 17.334 18.999001 21.663 26.667 29.502001 31.167 36 41.004002 43.757999 48.924 50.589001 54.917999 60.084 61.749001 66.419998"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113484">monitoring display</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,340.86)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113490"><tspan
+         x="0 4.5 9 14.67 16.334999 21.006001 23.67 26.000999 31.004999 33.84 41.337002 44.091 50.759998 55.764 58.598999 63.098999 65.852997 67.517998 69.182999 74.186996 79.019997 81.683998"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113488">• Platform work lights</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,329.42)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113494"><tspan
+         x="0 4.5 9 13.833 18.837 23.507999 28.007999 32.679001 37.845001 39.509998 44.181 46.935001 52.101002 53.765999 58.437 61.101002 63.431999 68.435997 71.271004 78.767998 81.522003 86.193001 91.196999 96.029999 98.694 101.367 106.371 108.036 110.79 115.956 120.96 125.289 128.043 132.714 137.718 141.88499 146.556"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113492">• Lockable platform control box cover</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,317.98)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113498"><tspan
+         x="0 4.5 9 13.005 17.676001 19.341 24.011999 31.509001 36.18 38.844002 40.508999 45.18 49.508999 52.263 54.936001 59.606998 64.278 69.444 73.611 76.364998 81.036003 86.040001 90.873001 95.706001 100.377 105.048 107.712 112.716"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113496">• Telematics ready connector</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,304.54)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#1476c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113502"><tspan
+         x="0 6.5 12.26 19.870001 25.26"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113500">Power</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,293.1)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113506"><tspan
+         x="0 4.5 9 14.004 19.007999 21.761999 27.099001 29.853001 36.018002 42.354 45.108002 49.778999 54.612 58.941002 60.605999 62.271 63.936001 68.607002 71.442001 75.609001 78.362999 83.528999 88.532997 95.202003 99.873001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113504">• 12 V DC auxiliary power</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,281.66)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113510"><tspan
+         x="0 4.5 9 14.67 19.503 22.167 23.832001 27.162001 29.834999 34.506001 38.834999 41.499001 46.169998 49.005001 51.668999 54.423 59.094002 63.926998 68.931 70.596001 75.429001 80.099998 82.853996 88.019997 90.693001 95.696999 98.361 103.032 107.703 110.367 112.032 117.036"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113508">• Anti-restart engine protection</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,270.2201)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113514"><tspan
+         x="0 4.5 9 14.67 19.503 22.167 27.171 29.924999 34.596001 39.429001 44.432999 46.098 50.931 55.602001 58.355999 60.687 65.358002 70.191002 71.856003 74.519997 77.274002 81.602997 86.435997 91.268997 93.932999 99.098999 104.103 110.772"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113512">• Auto engine fault shutdown</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,258.7801)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113518"><tspan
+         x="0 4.5 9 14.67 21.339001 23.004 27.837 32.841 35.595001 40.598999 45.431999 48.096001 50.849998 55.521 60.354 65.358002 67.023003 71.856003 76.527 79.280998 81.945 84.779999 89.450996"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113516">• Swing out engine tray</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,45,247.3401)"
+       style="font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'HelveticaNeueLT Std Lt';-inkscape-font-specification:HelveticaNeueLTStd-Lt;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113522"><tspan
+         x="0 4.5 9 17.000999 21.672001 23.337 28.503 33.174 36.008999 38.763 41.436001 46.106998 50.778 55.944 60.111 62.865002 67.869003 72.873001 75.375 80.378998 83.133003 87.633003 95.795998 98.550003 104.22 110.556 113.31 118.314 122.985 127.818 132.489 135.32401 139.995 142.659 147.66299"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113520">• Welder ready 12.5 kW AC generator</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,404.0746,395.316)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Roman;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113526"><tspan
+         x="0 2.112 3.948 7.836 9.1680002 12.168 15.612 17.448 20.67 23.67 26.892 28.224001 29.556 32.778 36.335999 37.667999 40.889999 42.726002 45.948002 48.948002 50.784 54.228001 55.560001 58.782001 60.779999 62.616001 65.952003 67.283997 69.120003 70.452003 73.788002 75.624001 76.956001 78.288002 83.405998 84.737999 86.627998 89.849998 93.407997 95.244003 97.134003 100.356 103.8 105.132 108.576 111.912"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113524">* Also available as Tier 4i in limited regions</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,402.2386,388.316)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Roman;writing-mode:lr-tb;fill:#66625e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text113530"><tspan
+         x="0 2.112 4.224 6.0599999 9.8400002 12.84 16.062 17.393999 18.726 21.948 25.506001 26.837999 30.059999 31.896 33.785999 37.122002 39.012001 42.456001 45.792 49.236 52.571999 54.408001 57.630001 59.405998 61.296001 64.517998 66.515999 71.634003 74.856003 76.853996 79.968002 83.190002 85.080002 86.916 90.473999 93.695999 95.694 97.584 100.584 102.42 105.864 109.2 110.532"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113528">** Available through aftermarket parts only</tspan></text>
+</g></svg>
